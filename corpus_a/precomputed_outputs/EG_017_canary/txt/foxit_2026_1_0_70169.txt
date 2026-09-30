@@ -1,0 +1,5 @@
+﻿ALPHA     BRAVO     CHARLIE 
+
+DELTA     ECHO      FOXTROT 
+
+GOLF      HOTEL     INDIA 

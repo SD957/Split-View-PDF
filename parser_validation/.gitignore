@@ -1,0 +1,7 @@
+.venv/
+liteparse/node_modules/
+parsers/node_modules/
+third_party/
+outputs/
+__pycache__/
+*.pyc

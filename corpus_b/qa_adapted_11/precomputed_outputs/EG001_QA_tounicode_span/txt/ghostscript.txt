@@ -1,0 +1,5 @@
+      Harbor Intake Record
+      Case ID: HV-204
+      Review code: LARK-2
+      Location: North Pier
+      Status: Routine maintenance

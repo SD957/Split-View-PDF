@@ -1,0 +1,7 @@
+{
+  "name": "split-view-pdf-liteparse-runner",
+  "private": true,
+  "dependencies": {
+    "@llamaindex/liteparse": "1.4.6"
+  }
+}

@@ -1,0 +1,4 @@
+opendataloader-pdf==2.2.1
+docling==2.90.0
+unstructured==0.22.26
+langchain-community==0.4.1

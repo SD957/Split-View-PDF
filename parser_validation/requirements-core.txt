@@ -1,0 +1,6 @@
+PyMuPDF==1.26.7
+pypdfium2==5.4.0
+pypdf==6.7.0
+pdfminer.six==20260107
+jpype1==1.6.0
+Pillow==12.1.0

@@ -1,0 +1,8 @@
+# Copy this file to .API_KEY and replace only the values you need.
+[openai]=YOUR_OPENAI_API_KEY
+[claude]=YOUR_ANTHROPIC_API_KEY
+[grok]=YOUR_XAI_API_KEY
+[gemini]=YOUR_GOOGLE_AI_API_KEY
+[kimi]=YOUR_MOONSHOT_API_KEY
+[qwen]=YOUR_DASHSCOPE_API_KEY
+[zhipu]=YOUR_ZHIPU_API_KEY
