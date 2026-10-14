@@ -1,6 +1,12 @@
 # Split-View PDFs
 
-This repository contains the public samples and validation code for paper "*What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chain*".
+This repository contains the public samples and validation code for *What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chain*, accepted at the 2027 IEEE Symposium on Security and Privacy (IEEE S&P 2027).
+
+<p align="left">
+  <img src="pics/ieeespbadges-available.png" alt="Artifact Available badge" width="96">
+  <img src="pics/ieeespbadges-functional.png" alt="Artifact Functional badge" width="96">
+  <img src="pics/ieeespbadges-reproduced.png" alt="Results Reproduced badge" width="96">
+</p>
 
 ## Repository Structure
 
