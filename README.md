@@ -57,7 +57,7 @@ provider options.
 ```bibtex
 @inproceedings{SplitViewPDF,
   author = {Side Liu and Jiang Ming},
-  title = {{What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chain}},
+  title = {{What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chains}},
   booktitle = {Proceedings of the 48th IEEE Symposium on Security and Privacy (S\&P '27)},
   year = {2027}
 }
