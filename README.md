@@ -2,7 +2,7 @@
 
 This repository contains the public samples and validation code for *What Users See Is Not What Models Read: Split-View PDFs in Document-to-LLM Supply Chain*, accepted at the 2027 IEEE Symposium on Security and Privacy (IEEE S&P 2027). 
 
-[Full paper](https://arxiv.org/pdf/2606.15020), [Demo](https://sd957.github.io/split-view-pdf/)
+[Full paper](https://arxiv.org/pdf/2606.15020), [Website](https://sd957.github.io/split-view-pdf/)
 
 <p align="left">
   <img src="pics/ieeespbadges-available.png" alt="Artifact Available badge" width="96">
